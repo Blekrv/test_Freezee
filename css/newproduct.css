@@ -1,0 +1,32 @@
+.new_product{
+    background-color: #eae7e8;
+    height: 260px;
+}
+.new_product1{
+    position: relative;
+}
+.yogurt{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+section h2{
+    font-family:"Lato regular";
+    font-size: 18px;
+    line-height: 24px;
+    color: #7a6666;
+    font-weight: 700;
+    margin-top: 30px;
+}
+section h3{
+    font-family:"Lato regular";
+    font-size: 24pt;
+    line-height: 24px;
+    color: #e32a62;
+    font-weight: bold;
+    margin-top: 20px;
+}
+section p{
+    color: #7a6666;
+    margin-top: 20px;
+}

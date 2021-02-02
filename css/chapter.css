@@ -1,0 +1,15 @@
+.chapter {
+  background-color: #c8c10d;
+  text-align: center;
+}
+.chapter img {
+  padding: 30px 0 10px 0;
+}
+.chapter h4 {
+  font-size: 20px;
+  font-family: "Lato regular";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  padding-bottom: 30px;
+}

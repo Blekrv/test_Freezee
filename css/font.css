@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "RammettoOne-Regular";
+    src: url(../fonts/RammettoOne-Regular.woff) format('woff');
+}
+@font-face{
+    font-family: "Lato regular";
+    src: url(../fonts/Lato-Regular.woff) format('woff');
+}
+@font-face{
+    font-family: "Quicksand";
+    src: url(../fonts/Quicksand-Bold.woff) format('woff');
+}
